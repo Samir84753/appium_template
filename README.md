@@ -1,2 +1,1 @@
 # appium_template
-sd
